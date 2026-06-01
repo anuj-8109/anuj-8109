@@ -11,7 +11,7 @@ I'm a passionate developer from Indore, India 🇮🇳, focused on building clea
 - 🔭 Building full-stack projects for my portfolio
 - 🌱 Learning **React.js**, **Django REST Framework** & system design
 - 💼 Actively seeking full-time / internship opportunities in web dev
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **anujpaterya29gmail.com**
 - 🗺️ Based in Indore, India
 
 ---
